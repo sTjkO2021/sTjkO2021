@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sTjkO2021
-- 👀 I’m interested in ...Apex and Python
+- 👀 I’m interested in ...Apex, Python, and Blockchain
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...nanobyteent@gmail.com
